@@ -1,0 +1,13 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(252, 252, 252, 0.87);
+  background-color: #000000;
+}
+
+body {
+  display: flex;
+  place-items: center;
+}
+
+
