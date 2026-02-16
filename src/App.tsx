@@ -11,7 +11,7 @@ const events = [
     date: "April 10, 2026",
     organizer: "Sir Senio Maragat",
     capacity: 1000,
-    registeredStudents: "Riley Panugot, Boko Litro, Alak Madatnan"
+    registeredStudents: ["Riley Panugot", "Boko Litro", "Alak Madatnan"]
   }
   ,
    {
@@ -21,7 +21,7 @@ const events = [
     date: "Sept. 12 2026",
     organizer: "Madam Annie Lou Boyardi",
     capacity: 1000,
-    registeredStudents: "Anito Marie, Paulo Litor, Panpan Datuto"
+    registeredStudents: ["Anito Marie", "Paulo Litor", "Panpan Datuto"]
   }
   ,
   {
@@ -31,7 +31,7 @@ const events = [
     date: "Nov 11, 2026",
     organizer: "Barangay Capt. Dilim",
     capacity: 1000,
-    registeredStudents: "Anne Boolean, Rook Literatura, Poto Genic"
+    registeredStudents: ["Anne Boolean", "Rook Literatura", "Poto Genic"]
   }
   
 
